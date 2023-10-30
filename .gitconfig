@@ -1,0 +1,13 @@
+[user]
+    name = Gabriel D'Nillo
+    email = 56946465+NilloGabriel@users.noreply.github.com
+    signingkey = 954B94133CB711F1
+
+[init]
+    defaultBranch = main
+
+[commit]
+    gpgsign = true
+	
+[pull]
+    ff = only

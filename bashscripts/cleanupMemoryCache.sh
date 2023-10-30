@@ -1,0 +1,1 @@
+https://github.com/giggio/bashscripts/blob/main/cleanupMemoryCache.sh
